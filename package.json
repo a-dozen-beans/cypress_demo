@@ -1,0 +1,15 @@
+{
+  "name": "cypress_demo",
+  "version": "1.0.0",
+  "description": "Coursedog QA Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agnieszka Hołuń",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.4.1",
+    "moment": "^2.29.1"
+  }
+}
